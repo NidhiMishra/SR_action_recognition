@@ -1,0 +1,3 @@
+C:\Users\IMI-Nadine\AppData\Local\Programs\Python\Python35\python.exe PyKinectBodyGame.py
+
+C:\Users\IMI-Nadine\AppData\Local\Programs\Python\Python35\python.exe SkeletonCNN_Run.py
